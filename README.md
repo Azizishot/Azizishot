@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Azizishot
+- 👀 I’m interested in Slaves
+- 🌱 I’m currently learning C++
+- 📫 How to reach me @isae.nl 
+- 😄 Pronouns: they/it
+- ⚡ Fun fact: i hate niggers
