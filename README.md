@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm azizishot</h1>
-<h3 align="center">Hi, I'm a AZstealer Owner, hope you will enjoy my work ! Here's a link to my stealer AZstealer. If you want to make me some feedback juste contact me on discord by my profile</h3>
+<h1 align="center">Hi 👋, I'm Azizishot</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizishot&label=Profile%20views&color=ee00ff&style=plastic" alt="azizishot" /> </p>
 
